@@ -1,1 +1,12 @@
 CTRL+ALT+N
+
+OOPS
+1.Abstraction
+2.Encapsulation
+3.Inheritance
+4.Polymorphism
+
+1.Winodows application
+2.Embedded firmware
+3.Drvice drivers
+4.client-server application
