@@ -20,3 +20,6 @@ Boolean--bool		        Pointer					Union
 Floating Point--float		Reference				Enum
 Double Floating point--double						Typedef
 Void
+
+int==>4
+int a[3]==4X3=12
