@@ -10,3 +10,13 @@ OOPS
 2.Embedded firmware
 3.Drvice drivers
 4.client-server application
+
+Primitive data types
+
+primary					    Derived				 User Defined
+Integer--int				Functions				class
+Character--char			    array					structure
+Boolean--bool		        Pointer					Union
+Floating Point--float		Reference				Enum
+Double Floating point--double						Typedef
+Void
