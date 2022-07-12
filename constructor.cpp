@@ -13,6 +13,9 @@ public:
     {
         id = _id;
     }
+    ~person(){
+        
+    }
     // member functions
     void getData();
     void showData()
