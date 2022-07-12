@@ -23,3 +23,10 @@ Void
 
 int==>4
 int a[3]==4X3=12
+
+student
+roll number
+name
+gender
+
+print the student details
