@@ -30,3 +30,19 @@ name
 gender
 
 print the student details
+
+Modes in Inheritance
+
+private==> both public and protected members of the base class will become
+private
+public ==>the public members of the base class become public in the derived class
+and protected will become protected in the derived class
+protected==>Both public and protected members of the base class
+will become protected in the derived class
+
+Types of inhertance
+1.Single
+2.Multilevel
+3.Multiple
+4.Hierarhical 
+5.Hybrid
